@@ -1,6 +1,7 @@
 EU CAPTCHA v2.2.2 - License
 
 ======================================================================
+
 © 2020 European Union
 
 EU CAPTCHA is licensed under the EUPL, Version 1.2 (see below) or 
