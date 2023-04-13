@@ -1,7 +1,7 @@
 # EU CAPTCHA
 
 EU CAPTCHA embodies the results and work in progress of [ISA² Action 2018.08 EU-Captcha](https://ec.europa.eu/isa2/actions/developing-open-source-captcha_en). 
-A CAPTCHA is a test intended to distinguish human from machine input. The objective of this action is to offer to the Member States an open source CAPTCHA released under the EUPL (European Union Public License) that is maintained, secure, user friendly and multilingual. It will be delivered as a component that can be operated as a service. A CAPTCHA with such characteristics does not exist on the market. The delivered solution will be published on GitHub so that it can be reviewed and maintained by the open source community.
+A CAPTCHA is a test intended to distinguish human from machine input. The objective of this action is to offer to the Member States an open source CAPTCHA released under the EUPL (European Union Public License) that is maintained, secure, user friendly and multilingual. It will be delivered as a component that can be operated as a service. A CAPTCHA with such characteristics does not exist on the market. The delivered solution will be published on GitLab so that it can be reviewed and maintained by the open source community.
 
 EU CAPTCHA supports two types of CAPTCHA:
 - Alphanumeric CAPTCHA with audio transcription
@@ -13,7 +13,7 @@ EU CAPTCHA can be installed in two ways:
 - by integrating with the managed service
 - by deploying the code (.WAR file) on your server/environment.
 
-Manuals and documentation for both installation methods can be found in the respective GitHub folder. 
+Manuals and documentation for both installation methods can be found in the respective GitLab folder. 
 
 ## Objectives of the Action
 A CAPTCHA is a test intended to distinguish human from machine input in order to thwart spam and automatic submission or extraction of data. The user is typically challenged to solve a puzzle that relies on expected capacities of the human brains but whose resolution is complex to automate. 
@@ -43,4 +43,4 @@ The objective of the action is to provide an open source CAPTCHA that is:
 
 ## License
 
-[European Union Public License (EUPL) 1.2](https://github.com/pwc-technology-be/EU-CAPTCHA/blob/master/LICENSE.md)
+[European Union Public License (EUPL) 1.2](https://code.europa.eu/eu-captcha/EU-CAPTCHA/-/blob/master/LICENSE.md)
