@@ -1,0 +1,38 @@
+Master Service Arrangement
+
+The Master Service Arrangement (MSA) aims to specify the understandings 
+and expectations on behalf of the European Commission with regard to the 
+provision of the EU CAPTCHA solution. It defines the generic terms that 
+should be respected by the stakeholders to use and manage the EU CAPTCHA 
+solution and/or Services.
+It has to be noted that the MSA is a non-binding statement made in good 
+faith, which is not legally enforceable against the European Commission, 
+and which creates no new binding legal obligations on the Commission. Any 
+references to duties or obligations within this Arrangement should therefore 
+be understood as a good faith statement of intent only, without any obligation 
+of result or legal recourse in case of breaches of such duties or obligations. 
+As such, this MSA does not require signatures between parties. 
+
+- 	Term 1 – Service provision: EU CAPTCHA and its related Services are 
+	defined and described on this web portal. EU CAPTCHA is provided as an 
+	open source solution and licensed under the EUPL-1.2-or-later (available 
+	at https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017D0863&from=FR). 
+	As specified in Article (7) of the EUPL-1.2, the solution is provided on 
+	an ‘as-is’ basis. This means that the Commission provides the solution 
+	without warranties of any kind concerning the solution, including without 
+	limitation merchantability, fitness for a particular purpose, absence of 
+	defects or errors, and accuracy. Furthermore, the Commission provides 
+	the solution without any warranties whatsoever regarding its long-term 
+	provision and maintenance. Hence, the Commission does not guarantee that 
+	the EU CAPTCHA solution, its Services and/or any support services on behalf 
+	of the Commission existing at a specific point in time will continue to 
+	be provided in the future, and shall not be liable for any damage on the 
+	side of the user caused by a stoppage of provision, in line with the 
+	conditions specified in Article (8) EUPL-1.2.
+- 	Term 2 – Service modification: In line with Article (2) of the EUPL-1.2, 
+	any user can download the EU CAPTCHA solution and use, reproduce, and modify 
+	the solution, as well as make derivative Works based on the solution. The 
+	Commission does not need to be consulted for any such actions on the side of 
+	the user. 
+- 	Term 3 – Financial implications: The Master Service Arrangement does not 
+	of itself create any financial obligations.
