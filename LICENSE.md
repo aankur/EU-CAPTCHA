@@ -1,18 +1,22 @@
-                      EUROPEAN UNION PUBLIC LICENCE v. 1.2
-                      EUPL © the European Union 2007, 2016
+EU CAPTCHA v2.2.2 - License
 
-This European Union Public Licence (the ‘EUPL’) applies to the Work (as defined
-below) which is provided under the terms of this Licence. Any use of the Work,
-other than as authorised under this Licence is prohibited (to the extent such
-use is covered by a right of the copyright holder of the Work).
+======================================================================
+© 2020 European Union
 
-The Work is provided under the terms of this Licence when the Licensor (as
-defined below) has placed the following notice immediately following the
-copyright notice for the Work:
+EU CAPTCHA is licensed under the EUPL, Version 1.2 (see below) or 
+-- as soon they will be approved by the European Commission -- 
+subsequent versions of the EUPL (the "Licence"), without prejudice 
+to the third-party components and dependencies licensed under 
+compatible licenses as specified in the file "Notice.txt", 
+available at https://code.europa.eu/eu-captcha/EU-CAPTCHA. 
 
-        Licensed under the EUPL
+The terms and conditions for the use of EU CAPTCHA are specified 
+in the Master Service Arrangement, available at 
+https://code.europa.eu/eu-captcha/EU-CAPTCHA (file “MSA.txt”).
 
-or has expressed by any other means his willingness to license under the EUPL.
+-----------------------------------------------------------------------------------
+EUROPEAN UNION PUBLIC LICENCE v. 1.2 EUPL
+-----------------------------------------------------------------------------------
 
 1. Definitions
 
