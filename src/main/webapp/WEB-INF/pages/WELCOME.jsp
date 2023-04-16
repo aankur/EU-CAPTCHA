@@ -142,14 +142,14 @@
                                             It will be delivered as a component that can be operated as a service.
                                             Next to this managed service, there is also an open source project available,
                                             which you can deploy yourself. More information can be found
-                                            <a href="https://github.com/pwc-technology-be/eu-captcha">here</a>
+                                            <a href="https://code.europa.eu/eu-captcha/EU-CAPTCHA/">here</a>
                                         </p>
                                         <p>
                                         EU CAPTCHA supports three types of CAPTCHA:
 
                                             <li><a href="/textual">Alphanumeric CAPTCHA with audio transcription;</a></li>
                                             <li><a href="/rotate">Image rotation CAPTCHA.</a></li>
-                                            <li><a href="/sliding">Sliding CAPTCHA.</a></li>
+                                            <!-- <li><a href="/sliding">Sliding CAPTCHA.</a></li> -->
                                         </p>
                                     </div>
                                 </div>
@@ -164,8 +164,8 @@
                                     </ul>
                                     <p dir="auto">Manuals and documentation for both installation
                                         methods can be found in the respective
-                                        <a href="https://github.com/pwc-technology-be/eu-captcha">
-                                            GitHub folder
+                                        <a href="https://code.europa.eu/eu-captcha/EU-CAPTCHA/">
+                                            GitLab folder
                                         </a>.
                                     </p>
                                     <p dir="auto">Reach out to us! You can send an email to
