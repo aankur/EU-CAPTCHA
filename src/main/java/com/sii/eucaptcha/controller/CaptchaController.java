@@ -48,7 +48,7 @@ public class CaptchaController {
     @GetMapping(value = "/captchaImg")
     public CaptchaResultDto getCaptchaImage(@RequestParam(defaultValue = "en-GB", required = false) String locale,
                                             @RequestParam(defaultValue = "8", required = false) Integer captchaLength,
-                                            @RequestParam(defaultValue = CaptchaConstants.TEXTUAL, required = false) String captchaType,
+                                            @RequestParam(defaultValue = CaptchaConstants.STANDARD, required = false) String captchaType,
                                             @RequestParam(defaultValue = "true", required = false) boolean capitalized,
                                             @RequestParam(required = false) Integer degree) {
 
@@ -89,7 +89,7 @@ public class CaptchaController {
     public CaptchaResultDto reloadCaptchaImage(@PathVariable("previousCaptchaId") String previousCaptchaId,
                                                @RequestParam(required = false) String locale,
                                                @RequestParam(required = false) Integer captchaLength,
-                                               @RequestParam(defaultValue = CaptchaConstants.TEXTUAL, required = false) String captchaType,
+                                               @RequestParam(defaultValue = CaptchaConstants.STANDARD, required = false) String captchaType,
                                                @RequestParam(required = false) boolean capitalized,
                                                @RequestParam(required = false) Integer degree) {
 
@@ -135,7 +135,7 @@ public class CaptchaController {
     public ResponseEntity<String> validateCaptcha(@PathVariable(value = "captchaId", required = false) String captchaId,
                                                   @RequestParam(value = "captchaAnswer", required = false) String captchaAnswer,
                                                   @RequestParam(value = "useAudio", required = false) boolean useAudio,
-                                                  @RequestParam(value = "captchaType", defaultValue = CaptchaConstants.TEXTUAL, required = false) String captchaType) {
+                                                  @RequestParam(value = "captchaType", defaultValue = CaptchaConstants.STANDARD, required = false) String captchaType) {
 
         log.debug("Validation requested with captchaId: {}, captchaAnswer: {}, useAudio: {}, type: {}",
                 captchaId, captchaAnswer, useAudio, captchaType);
