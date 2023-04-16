@@ -5,6 +5,8 @@ public class CaptchaConstants {
 
     public static final String WHATS_UP = "WHATS_UP";
 
+    public static final String SLIDING = "SLIDING";
+
     public static final Integer DEFAULT_DEGREE = 30 ;
 
     public static final int MIN_DEGREE = 15 ;

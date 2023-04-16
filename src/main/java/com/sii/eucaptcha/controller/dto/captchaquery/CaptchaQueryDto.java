@@ -72,7 +72,9 @@ public class CaptchaQueryDto {
         private boolean capitalized;
 
         public CaptchaQueryDtoBuilder(String captchaType) {
-            if (captchaType == null) this.captchaType = CaptchaConstants.STANDARD;
+            if (captchaType == null) {
+                this.captchaType = CaptchaConstants.STANDARD;
+            }
             else
                 this.captchaType = captchaType;
         }
